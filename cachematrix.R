@@ -3,13 +3,13 @@
 
 ## Write a short comment describing this function
 
-makeCacheMatrix <- function(x = matrix()) {
+B <- matrix(c (1,2,3,4)2,2) {
 
 }
 
 
-## Write a short comment describing this function
+## getting catched data
 
-cacheSolve <- function(x, ...) {
+B1<-makeCachematrix(b) {
         ## Return a matrix that is the inverse of 'x'
 }
